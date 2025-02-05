@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! 🚀 This website showcases my project
 
 Live Demo
 
-🔗 View Portfolio ([Replace with your actual link](https://github.com/bhumiikaaa/Portfolio-website))
+🔗 View Portfolio ([View](https://bhumika-portfoliowebsite.vercel.app/#))
 
 Features
 
